@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FD4825071FFF70EF0094DD13 /* practice_git */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = practice_git; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD48250A1FFF70EF0094DD13 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		FD7B80661FFF79ED00D93771 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		FD4824FE1FFF70EF0094DD13 = {
 			isa = PBXGroup;
 			children = (
+				FD7B80661FFF79ED00D93771 /* .gitignore */,
 				FD4825091FFF70EF0094DD13 /* practice_git */,
 				FD4825081FFF70EF0094DD13 /* Products */,
 			);
