@@ -14,5 +14,7 @@ int main(int argc, const char * argv[]) {
     printf("hello ccg");
     printf("supsupsusp");
     pritnf("aaaaaa");
+    printf("bbbbbbb");
+    printf("both accepted");
     return 0;
 }
