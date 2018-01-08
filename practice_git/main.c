@@ -16,5 +16,6 @@ int main(int argc, const char * argv[]) {
     pritnf("aaaaaa");
     printf("bbbbbbb");
     printf("both accepted");
+    printf("hello github");
     return 0;
 }
